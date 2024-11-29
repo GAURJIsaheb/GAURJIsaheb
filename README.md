@@ -26,15 +26,15 @@
     I aim to grow every day as a coder and as a person. 🚀
   </p>
   <p>
-    ✨ <strong>What I Love:</strong> Web Development, Problem Solving, Open-Source Contributions, and Learning New Technologies. <br/>
-    🌱 <strong>Currently Learning:</strong> Advanced React.js and System Design.
+    ✨ <strong>What I Love:</strong> Web Development, Problem Solving, Open-Source Contributions, and Learning New Technologies.
+    🌱 <strong>Currently Learning:</strong> Advanced Nextjs and System Design.
   </p>
   <p>
     When I'm not coding, you can find me exploring nature, binge-watching tech videos, or trying out new cuisines. 🌍🍴
   </p>
-  <img src="https://media.giphy.com/media/l0Ex5kBPqN54PFrny/giphy.gif" width="400" alt="About Me Gif"/>
+
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3I3jTV4eGD15KSsHwS/giphy.gif?cid=790b7611kijzfsyjm16nxcbv060tw3qr3ac1f5zlkazwl62t&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="500"/>
+  <img src="https://media.giphy.com/media/3I3jTV4eGD15KSsHwS/giphy.gif?cid=790b7611kijzfsyjm16nxcbv060tw3qr3ac1f5zlkazwl62t&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500" height="500"/>
 </div>
