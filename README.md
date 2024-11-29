@@ -26,7 +26,7 @@
     I aim to grow every day as a coder and as a person. 🚀
   </p>
   <p>
-    ✨ <strong>What I Love:</strong> Web Development, Problem Solving, Open-Source Contributions, and Learning New Technologies.
+    ✨ <strong>What I Love:</strong> Web Development, Problem Solving, Open-Source Contributions, and Learning New Technologies. <br/>
     🌱 <strong>Currently Learning:</strong> Advanced Nextjs and System Design.
   </p>
   <p>
