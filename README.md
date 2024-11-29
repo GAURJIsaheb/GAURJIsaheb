@@ -20,18 +20,20 @@
 <br>
 <div align="center">
   <h2>🌟 About Me 🌟</h2>
-  <p>
-    Hi, I'm <strong>Aditya Gaur</strong>! I'm a passionate developer who loves building impactful and innovative solutions. 
-    With expertise in solving challenging problems on platforms like <a href="https://leetcode.com/u/adityagaur086/">LeetCode</a> and connecting with professionals on <a href="https://www.linkedin.com/in/adityagaur01/">LinkedIn</a>, 
-    I aim to grow every day as a coder and as a person. 🚀
-  </p>
-  <p>
-    ✨ <strong>What I Love:</strong> Web Development, Problem Solving, Open-Source Contributions, and Learning New Technologies. <br/>
-    🌱 <strong>Currently Learning:</strong> Advanced Nextjs and System Design.
-  </p>
-  <p>
-    When I'm not coding, you can find me exploring nature, binge-watching tech videos, or trying out new cuisines. 🌍🍴
-  </p>
+  <div align="center">
+  <h2>🌟 About Me 🌟</h2>
+  
+  - :telescope: I’m a passionate developer with a knack for building intuitive and impactful web applications.
+  
+  - :seedling: Currently exploring advanced React.js concepts and system design to sharpen my skills.
+  
+  - :zap: In my free time, I solve challenging problems on [LeetCode](https://leetcode.com/u/adityagaur086/), contribute to open-source, and binge-watch tech videos.
+  
+  - :mailbox: How to reach me:  
+    [![LinkedIn Badge](https://img.shields.io/badge/-Aditya%20Gaur-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adityagaur01/)  
+    [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/adityagaur086/)
+</div>
+
 
 </div>
 
