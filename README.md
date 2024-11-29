@@ -28,9 +28,12 @@
   - :zap: In my free time, I solve challenging problems on [LeetCode](https://leetcode.com/u/adityagaur086/), contribute to open-source, and binge-watch tech videos.
   
   - :mailbox: How to reach me:  
-    [![LinkedIn Badge](https://img.shields.io/badge/-Aditya%20Gaur-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adityagaur01/)  
-    [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/adityagaur086/)
-
+   <a href="https://www.linkedin.com/in/adityagaur01/">
+      <img src="https://img.shields.io/badge/-Aditya%20Gaur-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://leetcode.com/u/adityagaur086/">
+      <img src="https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+    </a>
 
 
 </div>
