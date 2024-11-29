@@ -17,3 +17,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=GAURJIsaheb&style=for-the-badge&color=blue" alt="Profile View Counter"/>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/3I3jTV4eGD15KSsHwS/giphy.gif?cid=790b7611kijzfsyjm16nxcbv060tw3qr3ac1f5zlkazwl62t&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="500"/>
+</div>
