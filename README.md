@@ -20,8 +20,6 @@
 <br>
 <div align="center">
   <h2>🌟 About Me 🌟</h2>
-  <div align="center">
-  <h2>🌟 About Me 🌟</h2>
   
   - :telescope: I’m a passionate developer with a knack for building intuitive and impactful web applications.
   
@@ -32,7 +30,7 @@
   - :mailbox: How to reach me:  
     [![LinkedIn Badge](https://img.shields.io/badge/-Aditya%20Gaur-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adityagaur01/)  
     [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/adityagaur086/)
-</div>
+
 
 
 </div>
